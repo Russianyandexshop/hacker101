@@ -32,7 +32,7 @@ title: Home
           <span class="align-middle my-2">Capture the Flag</span>
         </h2>
         <p class="lead my-3">
-          Put your skills into practice with CTF levels inspired by the real world
+          Put your skills into practice with sean levels inspired by the real world
         </p>
         <a href="https://ctf.hacker101.com/" target="_blank" class="btn btn-outline-secondary">
           Check out CTF
